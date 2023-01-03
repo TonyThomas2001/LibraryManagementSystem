@@ -2,6 +2,6 @@
 
 ## Admin Login Details
  ******************
-### Roll No:ADMIN
+### Roll No : ADMIN
 ### Password: admin
  ******************
